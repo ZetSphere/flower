@@ -1,10 +1,9 @@
-
 onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('I LOVE U').split('')
-    const titleElement = document.getElementById('title');
+    const titles = "みゆ、誕生日おめでとう".split("");
+    const titleElement = document.getElementById("title");
     let index = 0;
 
     function appendTitle() {
