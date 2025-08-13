@@ -1,5 +1,5 @@
 const title = document.querySelector(".title");
-const text = "何か持っている".split("");
+const text = "For Matchaa".split("");
 for (let index = 0; index < text.length; index++) {
   if (text[index] !== " ") {
     title.innerHTML += `<span>${text[index]}<span/>`;
