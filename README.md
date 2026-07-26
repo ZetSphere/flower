@@ -34,7 +34,7 @@ This project was built using core front-end web technologies:
 
 ---
 
-## ⚡ Installation & Local Setup
+## Installation & Local Setup
 
 To run this project locally on your machine, follow these steps:
 
@@ -51,10 +51,13 @@ To run this project locally on your machine, follow these steps:
 
 ---
 
-## 👤 Author
+## Credits & Acknowledgements
+* Original Creator: Big thanks to [@FIQTOR](https://github.com/FIQTOR) for creating and sharing the original project base.
+
+## Maintainer
 
 **Zamzami Ahmad**  
 * GitHub: [@Madtch](https://github.com/Madtch)
 
 ---
-*Created for academic, organization, and personal growth documentation.*
+*Created for personal learning, practice, and open-source documentation.*
